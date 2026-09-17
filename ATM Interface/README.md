@@ -67,4 +67,4 @@ This is a beginner-friendly ATM console application and is mainly intended for l
 
 ## Author
 
-Subhadip Roy
+Subhadip Biswas
